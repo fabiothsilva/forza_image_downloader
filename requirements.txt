@@ -23,7 +23,7 @@ soupsieve==2.0
 toml==0.10.0
 tqdm==4.46.0
 typed-ast==1.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 w3lib==1.21.0
 websockets==8.1
 wrapt==1.12.1
